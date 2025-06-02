@@ -90,7 +90,8 @@ export const workData = [
         title: 'FOREVER ADMIN',
         description: 'Admin Dashboard Ecommerce',
         bgImage: '/work-2.png',
-        link:'https://forever-admin-mu-sooty.vercel.app'
+        link:'https://forever-admin-mu-sooty.vercel.app',
+        adminNote: "! Admin credentials available on request."
     },
     {
         title: 'IMAGIFY',
@@ -114,8 +115,8 @@ export const serviceData = [
 ]
 
 export const infoList = [
-    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'HTML · CSS · JavaScript · TypeScript · JSX · JSON' },
-    { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Tech Stack', description: 'React.js · Next.js · Express.js · Node.js · MongoDB · Tailwind CSS · Material UI · Git · REST APIs' },
+    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'HTML · CSS · JavaScript · TypeScript · JSX · JSON · C++ · Java' },
+    { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Tech Stack', description: 'React.js · Next.js · Vue.js · Express.js · Node.js · MongoDB · MySql · Tailwind CSS · Material UI · Git · REST APIs' },
     { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Education', description: 'B.Tech in Computer Science' }
 ];
 
